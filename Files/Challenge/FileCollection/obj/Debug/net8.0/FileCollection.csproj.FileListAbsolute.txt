@@ -1,0 +1,4 @@
+C:\Users\agbey\Downloads\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agbey\Downloads\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.AssemblyInfoInputs.cache
+C:\Users\agbey\Downloads\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.AssemblyInfo.cs
+C:\Users\agbey\Downloads\Start\Start\Files\Challenge\FileCollection\obj\Debug\net8.0\FileCollection.csproj.CoreCompileInputs.cache
