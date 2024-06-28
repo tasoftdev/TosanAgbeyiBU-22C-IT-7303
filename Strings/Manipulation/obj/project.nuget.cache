@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sb89HOp7R5pR8NwsLZ6i6vIsCAZaiR97iPMWf1RAk9EQ/fmnWPzxBOn9/ZjqTvQ6PiWYuWpbp9ZIjIgepGBjyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agbey\\Downloads\\Start\\Start\\Strings\\Manipulation\\Manipulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agbey\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\agbey\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\agbey\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\agbey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
